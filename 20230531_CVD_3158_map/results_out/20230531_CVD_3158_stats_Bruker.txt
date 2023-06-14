@@ -1,0 +1,6 @@
+				trimmed	trimmed
+Signal	Det.	Avg	STD	avg	std
+Si	d1	339937	1164	339988	814
+Si	d1	354071	1351	354164	962
+Ga	d1	13131	131	13132	102
+Ga	d2	13430	144	13430	117
