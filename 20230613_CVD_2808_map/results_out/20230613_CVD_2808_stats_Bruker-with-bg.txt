@@ -1,0 +1,8 @@
+CVD2808 Statistics, Bruker-with-bg
+Trim threshold: z >= 2
+				trimmed	trimmed
+Signal	Det.	Avg	STD	avg	std
+Si	d1	317634	1271	317822	1057
+Si	d1	329896	1402	330077	1185
+Ga	d1	21940	158	21941	150
+Ga	d2	22358	165	22366	149
