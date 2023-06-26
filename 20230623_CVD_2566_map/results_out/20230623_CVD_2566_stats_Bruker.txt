@@ -1,0 +1,10 @@
+CVD2566 Statistics, Bruker
+Trim threshold: z >= 2
+				trimmed	trimmed
+Signal	Det.	Avg	STD	avg	std
+Si	d1	230179	819	230087	658
+Si	d2	240579	787	240548	691
+Ga	d1	75551	334	75519	299
+Ga	d2	77472	354	77491	329
+P	d1	23430	161	23424	138
+P	d2	23546	167	23536	149
