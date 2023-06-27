@@ -5,4 +5,4 @@ text_out
 #ignore fit files from pymca
 FIT
 #DON'T ignore fit files from the 3158 fitting experiments
-!cvd3158_fitting_experiments/*/FIT
+!cvd3158 fitting experiments/*/FIT
