@@ -2,3 +2,7 @@
 ipynb_checkpoints
 #ignore text files exported from .spx files
 text_out
+#ignore fit files from pymca
+FIT
+#DON'T ignore fit files from the 3158 fitting experiments
+!cvd3158_fitting_experiments/*/FIT
