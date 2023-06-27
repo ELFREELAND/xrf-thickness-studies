@@ -1,0 +1,4 @@
+#ignore ipynb checkpoints
+/.ipynb_checkpoints
+#ignore text files exported from .spx files
+det_*.txt
