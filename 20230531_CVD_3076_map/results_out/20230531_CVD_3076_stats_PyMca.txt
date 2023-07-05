@@ -1,0 +1,10 @@
+CVD3076 Statistics, PyMca
+Trim threshold: z >= 2
+				trimmed	trimmed
+Signal	Det.	Avg	STD	avg	std
+Si	d1	138434	551	138393	457
+Si	d2	144468	697	144465	583
+Ga	d1	185724	759	185764	709
+Ga	d2	189881	857	189971	715
+P	d1	44731	228	44739	197
+P	d2	45196	301	45209	253
