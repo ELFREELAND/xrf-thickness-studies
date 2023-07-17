@@ -1,12 +1,14 @@
 CVD2546 Statistics, PyMca
 Trim threshold: z >= 2
 				trimmed	trimmed
-Signal	Det.	Avg	STD	avg	std
+Signal	Det.	Line	Avg	STD	avg	std
 Si	d1	Ka	228478	1266	228534	1117
 Si	d2	Ka	238194	1390	238257	1301
 Ga	d1	Ka	98084	638	98131	562
 Ga	d2	Ka	100323	625	100364	563
 Ga	d1	Kb	13249	186	13255	162
 Ga	d2	Kb	13613	191	13619	164
+Ga	d1	L	3390	79	3391	68
+Ga	d2	L	3587	81	3584	73
 P	d1	Ka	28237	233	28234	199
 P	d2	Ka	28435	232	28442	212
