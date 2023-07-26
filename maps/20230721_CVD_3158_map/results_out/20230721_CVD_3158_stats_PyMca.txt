@@ -1,0 +1,14 @@
+CVD3158 Statistics, PyMca
+Trim threshold: z >= 2
+				trimmed	trimmed
+Signal	Det.	Line	Avg	STD	avg	std
+Si	d1	Ka	356192	1367	356268	1241
+Si	d2	Ka	371173	1491	371234	1315
+Ga	d1	Ka	14016	180	14017	155
+Ga	d2	Ka	14435	164	14431	146
+Ga	d1	Kb	1952	124	1953	109
+Ga	d2	Kb	1970	122	1965	104
+Ga	d1	L	645	48	644	42
+Ga	d2	L	738	55	737	49
+P	d1	Ka	4692	77	4694	69
+P	d2	Ka	4692	75	4691	63
